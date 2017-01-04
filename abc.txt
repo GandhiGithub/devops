@@ -1,5 +1,10 @@
 demo for git
 123
 456
+HEAD
 merge1
 abc
+merge2
+cde
+fgh
+branch1
