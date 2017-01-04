@@ -1,3 +1,7 @@
 demo for git
 123
 456
+merge2
+cde
+fgh
+
